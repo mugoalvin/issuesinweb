@@ -1,0 +1,13 @@
+:root {
+    --darkMain: #212121;
+    --darkModeText: #bebebe;
+    --darkGray: rgb(53, 53, 53);
+    --darkBorder: #ffff00;
+
+    --white: #FFF;
+    --black: #000;
+    --bluePrimary: #3580dc;
+
+    --bodyBrightBG: #E9F1FA;
+    --brightBlue: #00ABE4;
+}
